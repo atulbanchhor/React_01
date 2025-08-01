@@ -1,0 +1,7 @@
+SSH key --
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDCBCyzFDholo61uynX3PYHFbXhlts6SvKXhdyz/Z8Ai atulbanchhor10@gmail.com
+
+
+The authenticity of host 'github.com (20.207.73.82)' can't be established.
+ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
+This key is not known by any other names.
